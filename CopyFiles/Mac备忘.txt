@@ -1,0 +1,5 @@
+QMAKE_LFLAGS += -F /System/Library/Frameworks/Security.framework/
+LIBS += -framework Security
+
+
+SMJobBlessApp
